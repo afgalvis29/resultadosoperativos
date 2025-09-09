@@ -23,8 +23,7 @@ Visualización interactiva que muestra el desempeño de operadores, tiempos de r
 
 - **Google Data Studio / Looker Studio** – Visualización de datos.
 - **Google Sheets** – Fuente de datos principal.
-- **Google Apps Script** – Automatización de carga de datos y actuali![Uploading Captura dashboard resultados operativos.png…]()
-zaciones.
+- **Google Apps Script** – Automatización de carga de datos y actualizaciones
 - **Excel avanzado** – Limpieza, transformación y preprocesamiento de datos.
 
 ---
