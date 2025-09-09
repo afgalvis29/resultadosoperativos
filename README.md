@@ -16,8 +16,6 @@ Visualización interactiva que muestra el desempeño de operadores, tiempos de r
 
 [Haz clic aquí para ver el dashboard en acción](https://lookerstudio.google.com/reporting/9db64cc9-be78-4393-a631-4b2ed1b7b1ba)
 
-<img width="1192" height="884" alt="Captura dashboard resultados operativos" src="https://github.com/user-attachments/assets/46546d78-17db-490d-a762-90fc4a25a813" />
-
 
 ---
 
@@ -47,9 +45,11 @@ zaciones.
 
 ---
 
+<img width="1192" height="884" alt="Captura dashboard resultados operativos" src="https://github.com/user-attachments/assets/46546d78-17db-490d-a762-90fc4a25a813" />
+
 ##  ¿Quieres trabajar conmigo?
 
 Puedes enviarme un mensaje o conectar conmigo en LinkedIn:
 
 - **Email:** afgalvis29@gmail.com
-- **LinkedIn:** [[Tu perfil aquí]](https://www.linkedin.com/in/andresgalvis99/)
+- **LinkedIn:** (https://www.linkedin.com/in/andresgalvis99/)
