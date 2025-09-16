@@ -10,12 +10,6 @@ Visualización interactiva que muestra el desempeño de operadores, tiempos de r
 - Identificar clientes con atención pendiente a través de alertas visuales.
 - Facilitar una vista rápida para priorizar tareas y mejorar la eficiencia operativa.
 
----
-
-##  Dashboard
-
-[Haz clic aquí para ver el dashboard en acción](https://lookerstudio.google.com/reporting/9db64cc9-be78-4393-a631-4b2ed1b7b1ba)
-
 
 ---
 
